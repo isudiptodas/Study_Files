@@ -31,7 +31,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/70/5f/56/705f56eb6882bf952caf02f9304510d5.gif"  />
+  <img height="300" src="https://github.com/isudiptodas/isudiptodas/blob/main/Github_Study_Files.gif"  />
 </div>
 
 ###
