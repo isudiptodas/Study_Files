@@ -18,23 +18,34 @@
 
 ###
 
-<h3 align="left">Author : Sudipto Das</h3>
+<h2 align="left">Languages covered </h2>
 
 ###
 
-<h3 align="left">Notes format : PDF</h3>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="25" />
+  <img src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png" height="40" alt="cplusplus logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="25" />
+  </div>
+
+  ###
+
+<h4 align="left">Author : Sudipto Das</h4>
 
 ###
 
-<h3 align="left">Books format : PDF</h3>
+<h4 align="left">Notes format : PDF</h4>
 
 ###
 
-<h3 align="left">Languages covered - C, C++, Java</h3>
+<h4 align="left">Books format : PDF</h4>
 
 ###
 
-<h3 align="left">Topics : C, C++, Java, Computer Architecture, DBMS, Operating Systems</h3>
+<h4 align="left">Topics : C, C++, Java, Computer Architecture, DBMS, Operating Systems</h4>
 
 
 ###
