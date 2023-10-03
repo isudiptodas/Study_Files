@@ -18,23 +18,23 @@
 
 ###
 
-<h2 align="left">Author : Sudipto Das</h2>
+<h3 align="left">Author : Sudipto Das</h3>
 
 ###
 
-<h2 align="left">Notes format : PDF</h2>
+<h3 align="left">Notes format : PDF</h3>
 
 ###
 
-<h2 align="left">Books format : PDF</h2>
+<h3 align="left">Books format : PDF</h3>
 
 ###
 
-<h2 align="left">Languages covered - C, C++, Java</h2>
+<h3 align="left">Languages covered - C, C++, Java</h3>
 
 ###
 
-<h2 align="left">Topics : C, C++, Java, Computer Architecture, DBMS, Operating Systems</h2>
+<h3 align="left">Topics : C, C++, Java, Computer Architecture, DBMS, Operating Systems</h3>
 
 
 ###
