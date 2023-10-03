@@ -1,3 +1,11 @@
+###
+
+<div align="center">
+  <img height="300" src="https://github.com/isudiptodas/isudiptodas/blob/main/Github_Study_Files.gif"  />
+</div>
+
+###
+
 <h1 align="left">How's it going geeks ?</h1>
 
 ###
@@ -28,10 +36,5 @@
 
 <h2 align="left">Topics : C, C++, Java, Computer Architecture, DBMS, Operating Systems</h2>
 
-###
-
-<div align="center">
-  <img height="300" src="https://github.com/isudiptodas/isudiptodas/blob/main/Github_Study_Files.gif"  />
-</div>
 
 ###
