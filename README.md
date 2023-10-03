@@ -29,6 +29,13 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="25" />
+  <img src="https://clipground.com/images/html5-png-image-10.png" height="40" alt="HTML logo"  />
+  <img width="25" />
+  <img src="https://www.softorks.com/Images/css.jpg" height="40" alt="CSS logo"  />
+  <img width="25" />
+  <img src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" height="40" alt="JS logo"  />
+  <img width="25" />
+  
   </div>
 
   ###
