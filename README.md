@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Welcome to my study file section.<br>Here I will add code source files, some of my practice sets, computer science notes and even some books on computer science topics.<br><br>From here you can refer books as well as notes for your CS concepts and for better understandings.</p>
+<p align="left">Welcome to my study file section. Here I will add code source files, some of my practice sets, computer science notes and even some books on computer science topics.<br><br>From here you can refer books as well as notes for your CS concepts and for better understandings.<br>If you find something helpful from this then do give it a star.</p>
 
 ###
 
