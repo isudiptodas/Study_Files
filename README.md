@@ -40,19 +40,23 @@
 
   ###
 
-<h4 align="left">Author : Sudipto Das</h4>
+<h2 align="left">Author : </h2>
+<p align="left"> Sudipto Das </p>
 
 ###
 
-<h4 align="left">Notes format : PDF</h4>
+<h2 align="left">Notes format : </h2>
+<p align="left"> PDF </p>
 
 ###
 
-<h4 align="left">Books format : PDF</h4>
+<h2 align="left">Books format : </h2>
+<p align="left"> PDF </p>
 
 ###
 
-<h4 align="left">Topics : C, C++, Java, Computer Architecture, DBMS, Operating Systems</h4>
+<h2 align="left">Topics : </h2>
 
+<p align="left"> C, C++, Java, Computer Architecture, DBMS, Operating Systems, DSA, Mathematics for Computer Science </p>
 
 ###
