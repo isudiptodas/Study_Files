@@ -1,10 +1,9 @@
 public class HollowRectangle{
-
-    public static void Hollow_Rectangle(int totRow, int totCol){
-        for(int i=1; i<=totRow; i++){
-            for(int j=1; j<=totCol; j++){
-                if(i == 1 || i == totRow || j == 1 || j == totCol){
-                    System.out.print("*");
+    public static void hollow_rectangle(int rows, int col){
+        for(int i=1; i<=rows; i++){
+            for(int j=1; j<=col; j++){
+                if(i == 1 || i == rows || j == 1 || j == col){
+                System.out.print("*");
                 }
                 else{
                     System.out.print(" ");
@@ -15,7 +14,6 @@ public class HollowRectangle{
 
     }
     public static void main(String args[]){
-
-        Hollow_Rectangle(5,5);
+        hollow_rectangle(5,5);
     }
 }
