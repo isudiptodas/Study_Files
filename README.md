@@ -59,6 +59,6 @@
 
 <h2 align="left">Topics : </h2>
 
-<p align="left"> C, C++, Java, Computer Architecture, DBMS, Operating Systems, DSA, Mathematics for Computer Science </p>
+<p align="left"> C, C++, Java, Computer Architecture, DBMS, Operating Systems, DSA, Mathematics for Computer Science, Python </p>
 
 ###
