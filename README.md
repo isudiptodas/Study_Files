@@ -35,8 +35,7 @@
   <img width="25" />
   <img src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg" height="40" alt="JS logo"  />
   <img width="25" />
-  <img src="https://th.bing.com/th/id/R.b32ab39f0e0ec0ee211e7d5871a85b25?rik=UgUvGdJoKe9S5g&riu=http%3a%2f%2fwww.pngmart.com%2ffiles%2f7%2fPython-PNG- 
-  File.png&ehk=91gnkGqINrkU%2fBwfMFMtghWye%2fQHWz6FFtUFGGllnb8%3d&risl=&pid=ImgRaw&r=0" height="40" alt="python logo" />
+  <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon-700x697.png" height="40" alt="python logo" />
   <img width="25" />
   
   </div>
