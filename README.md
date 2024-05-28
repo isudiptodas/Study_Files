@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Welcome to my study file section. Here I will add code source files, some of my practice sets, computer science notes, cheat sheets and even some books on computer science topics.<br><br>From here you can refer books as well as notes for your CS concepts and for better understandings.<br>If you find something helpful from this then do give it a star.</p>
+<p align="left">Welcome to my study file section. Here I will add code source files, some of my practice sets, computer science notes, cheat sheets and even some books on computer science topics.<br>From here you can refer books as well as notes for your CS concepts and for better understandings.<br></p>
 
 ###
 
@@ -59,6 +59,6 @@
 
 <h2 align="left">Topics : </h2>
 
-<p align="left"> C, C++, Java, Computer Architecture, DBMS, Operating Systems, DSA, Mathematics for Computer Science, Python </p>
+<p align="left"> C, C++, Java, DBMS, Operating Systems, DSA, Python </p>
 
 ###
